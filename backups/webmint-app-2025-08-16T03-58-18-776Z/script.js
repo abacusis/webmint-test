@@ -1,1 +1,0 @@
-document.getElementById('dark-mode-toggle').addEventListener('click', function() { document.body.classList.toggle('bg-gray-800'); document.body.classList.toggle('text-white'); });
